@@ -683,7 +683,7 @@ OUT;
 		<div id="footer">
 
 			<div id="footer_bg">
-				<p><a href="http://www.glype.com/">Glype</a>&reg; &copy; 2007-2018 Glype. All rights reserved.</p>
+				<p>Glype &copy; 2007-2018 Glype. All rights reserved.</p>
 			</div>
 
 		</div>
